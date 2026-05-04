@@ -26,6 +26,7 @@ link profile          .profile
 link vimrc            .vimrc
 link tmux.conf.local  .tmux.conf.local
 link config/nvim      .config/nvim
+link config/ghostty   .config/ghostty
 
 echo
 echo "done. backups (if any) in $BACKUP"

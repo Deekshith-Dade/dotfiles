@@ -13,6 +13,7 @@ Personal config for shell, vim/neovim, and tmux.
 | `vimrc`               | `~/.vimrc`                  |
 | `tmux.conf.local`     | `~/.tmux.conf.local`        |
 | `config/nvim/`        | `~/.config/nvim/`           |
+| `config/ghostty/`     | `~/.config/ghostty/`        |
 
 ## Install on a new machine
 

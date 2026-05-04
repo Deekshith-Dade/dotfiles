@@ -1,0 +1,20 @@
+keybind = cmd+r=reload_config
+
+font-family = "Maple Mono"
+font-size = 13
+font-feature = calt
+
+theme = "Adventure"
+window-decoration = auto
+macos-titlebar-style = hidden
+
+background-opacity = 0.90
+background-blur-radius = 20
+window-padding-x = 15
+window-padding-y = 10
+window-padding-balance = true
+
+mouse-hide-while-typing = true
+
+cursor-style = block
+cursor-style-blink = false
